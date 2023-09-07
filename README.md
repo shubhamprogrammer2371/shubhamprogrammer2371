@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Bhalerao</h1>
 <h3 align="center">I'm aspiring Software Developer and quite interested in cyber security and am always concerned about how to stay safe in the digital realm.</h3>
 
+<img align="right" alt="Coding" width="370" height="270" src="https://github.com/shubhamprogrammer2371/shubhamprogrammer2371/blob/main/coder.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamprogrammer2371&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamprogrammer2371" /> </p>
 
 - 🔭 I’m currently working on **Face Recognition Attendance System**
@@ -8,6 +9,9 @@
 - 📫 How to reach me **bhaleraos1234@gmail.com**
 
 - ⚡ Fun fact **I love to code**
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

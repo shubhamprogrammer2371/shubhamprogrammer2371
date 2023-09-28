@@ -1,11 +1,16 @@
 ![logo](https://github.com/shubhamprogrammer2371/shubhamprogrammer2371/blob/main/banner.gif)
 <br><br>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shubhamprogrammer2371.sshubhamprogrammer2371" />
 <br>
+
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shubham+Bhalerao!;" />
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shubham+Bhalerao!;" />
 </h1>
+
+
 <h3 align="center">I'm aspiring Software Developer and quite interested in cyber security and am always concerned about how to stay safe in the digital realm.</h3>
+
 
 <img align="right" alt="Coding" width="370" height="270" src="https://github.com/shubhamprogrammer2371/shubhamprogrammer2371/blob/main/coder.gif">
 

@@ -9,7 +9,7 @@
 </h1>
 
 
-<h3 align="center">I'm aspiring Software Developer and quite interested in cyber security and am always concerned about how to stay safe in the digital realm.</h3>
+<h3 align="center">I'm aspiring Network Administartor and quite interested in cyber security and am always concerned about how to stay safe in the digital realm.</h3>
 
 
 <img align="right" alt="Coding" width="370" height="270" src="https://github.com/shubhamprogrammer2371/shubhamprogrammer2371/blob/main/coder.gif">
@@ -19,13 +19,13 @@
 
 
 
-<div align="center">
+<div align="left">
  
  🔭 I’m currently working on **Face Recognition Attendance System**
  
 📫 How to reach me **bhaleraos1234@gmail.com**
 
- ⚡ Fun fact **I love to code**
+ ⚡ Fun fact **I love to code and go to GYM on regular basis**
  </div>
 
 
@@ -38,10 +38,7 @@
   </a>
   <a href="https://linkedin.com/in/bhaleraoshubham" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-<!--   <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-<!--   </a> --> 
+  </a> 
 </div>
 
 <hr>
@@ -51,8 +48,8 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,java,php" /><br>
 </div>
-<h3 align = "left"> Languages </h3>
-<div>
+<h3 align = "left"> Framework </h3>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=github,mongodb,linux,bootstrap,mysql,html,css,vscode" />
 </div>
     
